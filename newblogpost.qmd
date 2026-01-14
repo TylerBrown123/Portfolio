@@ -3,6 +3,4 @@ title: "Untitled"
 editor: visual
 ---
 
-
-Tyler's New Blog Post
----
+## Tyler's New Blog Post
