@@ -1,0 +1,94 @@
+---
+author: Tyler Brown
+title: Bellevue, NE | 123-456-6789 | tylerbrown1416@gmail.com
+format:
+  classic-cv-pdf: default
+cvfooter:
+  left: "mr.schochastics.net"
+  right: "github.com/schochastics"
+cvcolor: 58748F #without `#`
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+execute:
+  echo: false
+---
+
+## Education
+
+\underline{\textbf{Bachelor of Science in Statistics}}
+
+University of Nebraska–Lincoln, Lincoln, NE
+
+May 2027, GPA: 3.949
+
+Minors: Actuarial Science & Mathematics
+
+## Actuarial Examinations
+
+Exam FM \hfill Passed December 2024  
+Exam P \hfill Passed January 2026  
+Exam FAM \hfill Scheduled December 2026
+
+## VEE Courses
+
+Economics:
+ECON 211 - Macroeconomics (Completed), ECON 212 - Microeconomics (Completed)
+
+Mathematical Statistics:
+STAT 301 - Mathematical Statistics & Modeling I (Completed)
+
+Accounting & Finance
+Planned, anticipated completion July 2026
+
+## Work Experience
+
+\underline{\textbf{CAST Study Stop Tutor (01/24-Present)}}
+
+\begin{itemize}
+\item Apply math and statistics knowledge using strong communication skills to guide students in mastering course material
+\item Previously managed the statistics tutoring program single-handedly for two semesters, providing support to 50+ students and helping them achieve measurable improvement in grades
+\end{itemize}
+
+## Projects
+
+\underline{\textbf{Data Analytics Sports Blog}} \hfill tylerbrown123.github.io
+
+\begin{itemize}
+\item Cleaned and analyzed web-scraped NFL data using R to compare quarterback performance, evaluating the play of Geno Smith relative to peers
+\item Analyzed and visualized season statistics for the 2008 Lions and 2017 Browns to uncover patterns in performance and identify contributing factors to their winless seasons
+\end{itemize}
+
+\underline{\textbf{Tidy Tuesday Chess Data}} \hfill https://www.youtube.com/watch?v=tHlQ32HKNd4
+
+\begin{itemize}
+\item Analyzed Tidy Tuesday chess data in R to examine the distribution of upsets by player rating and identify common opening moves
+\item Highlighted significant upsets and patterns that were not apparent without detailed analysis
+\end{itemize}
+
+## Activities
+
+\underline{\textbf{Actuarial Science Club}}
+
+\begin{itemize}
+\item Engage with actuarial professionals to gain insights into industry practices and career paths
+\item Build professional connections with aspiring actuaries through group events and collaborative activities
+\end{itemize}
+
+## Awards
+
+Regents Scholarship, August 2023–Present
+
+Nebraska Career Scholarship, August 2023–Present
+
+
+
+
+
+
+
+
+
+
+
+
+
+

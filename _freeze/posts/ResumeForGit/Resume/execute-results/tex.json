@@ -1,0 +1,15 @@
+{
+  "hash": "ea472a6d7cfc551866f0956349a2e7ef",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nauthor: Tyler Brown\ntitle: Bellevue, NE | 123-456-6789 | tylerbrown1416@gmail.com\nformat:\n  classic-cv-pdf: default\ncvfooter:\n  left: \"mr.schochastics.net\"\n  right: \"github.com/schochastics\"\ncvcolor: 58748F #without `#`\ncvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa\nexecute:\n  echo: false\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n# Education\n\n\n\n\n\\cvevent{Aug. 2023 - May. 2027}{Bachelor of Science in Statistics}{Lincoln, NE}{{Relevant Coursework: Statistical Computing Using R, Mathematical Statistics, Technical Writing For Statistics, haaaa}}\n\n\n\n\n# Actuarial Examinations\n\n\n\n\n\\cvevent{Aug. 2012 - May. 2027}{Bachelor of Science in Statistics}{Lincoln, NE}{{Thesis: A Positional Approach for Network Centrality},{Developed and implemented new methods to assess network centrality}}\n\\cvevent{Sep. 2006 - Jul. 2012}{Diploma in Business Mathematics}{Karlsruhe, Germany}{{Thesis: Modularity Maximization},{Implementation and comparison of different clustering algorithms using Matlab}}\n\n\n\n\n\n# Experience\n\n\n\n\n\\cvevent{Mar. 2022 - Present}{Team Lead}{GESIS - Leibniz Institute for the Social Sciences}{{Coordination of a project to build an Open Science platform with reusable code and tutorials},{Research on Open Science Practices},{Implementation of tools to enhance reproducibility and facilitate research with digital data in R}}\n\\cvevent{Sep. 2018 - Feb. 2022}{Presidential Fellow}{University of Manchester}{{Research on Disinformation on Social Media},{Analyses of large scale and unstructured data sets with R, Python and Bash}}\n\\cvevent{Nov. 2017 - Aug. 2018}{Post Doctoral Researcher}{ETH Zurich}{{Developing new methods to analyze social networks},{Implementing methods in libraries},{Gathering and analyzing large datsets from Social Media APIs}}\n\\cvevent{Oct. 2015 - Oct. 2017}{Post Doctoral Researcher}{University of Konstanz}{{Developing new methods to analyze social networks},{Implementing methods in libraries},{Webscraping and harmonizing a large corpus of football data}}\n\\cvevent{Nov. 2012 - Sep. 2015}{Ph.D. Candidate}{University of Konstanz}{{Developing new methods to analyze social networks},{Implementing methods in libraries}}\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
