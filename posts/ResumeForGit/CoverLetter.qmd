@@ -1,0 +1,47 @@
+---
+title: "Tyler Brown"
+author: Bellevue, NE | 123-456-7890 | tylerbrown1416@gmail.com
+format: pdf
+execute:
+  echo: false
+---
+January 21, 2026
+
+\vspace{1em}
+
+\setlength{\parskip}{0.2em}
+
+Lincoln Financial Group  
+8801 Indian Hills Dr  
+Omaha, NE 68114
+
+\vspace{1em}
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Assoicate Actuary, Life Qualified Actuary Team position. I am particularly drawn to Lincoln's actuarial development program, which prioritizes both technical excellence and business leadership. The dedicated study hours offered leave no room for doubt that at Lincoln, they care about their actuarial students as they work towards their credentials. The structured study support and rotational opportunities strongly align with my professional goals and my desire to grow into a well-rounded actuary.
+
+\vspace{1em}
+
+I am currently at the University of Nebraska-Lincoln working towards a degree in Statistics & Data Analytics with minors in Actuarial Science and Mathematics. Through my coursework and projects in R, I have developed a strong foundation in insurance concepts and the full data analysis workflow from data collection and cleaning to analysis and communication.
+
+\vspace{1em}
+
+As a CAST Study Stop tutor I have developed the ability to communicate quantitative concepts clearly and collaborate effectively with peers when solutions are not immediately clear. I will bring these skills to Lincoln by communicating data collection and analysis processes and by explaining results and conclusions to stakeholders both within and outside the company.
+
+\vspace{1em}
+
+As detailed in my resume, my professional and academic experience demonstrate my ability to be a strong Associate Actuary for Lincoln Financial. I have the technical and communication skills needed and am excited for the opportunity to grow with Lincoln. I look forward to speaking with you further. Thank you for your time and consideration.
+
+\vspace{1em}
+
+Sincerely,
+
+\vspace{1em}
+
+Tyler Brown
+
+
+
+
+

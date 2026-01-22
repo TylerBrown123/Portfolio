@@ -1,15 +1,16 @@
 [
   {
+    "listing": "/posts/newblogpost/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/ResumeForGit/Resume.pdf",
+      "/posts/ResumeForGit/CoverLetter.pdf",
       "/posts/newblogpost/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
-  },
-  {
-    "listing": "/posts/newblogpost/index.html",
-    "items": []
   }
 ]

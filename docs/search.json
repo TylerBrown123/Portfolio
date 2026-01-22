@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Bellevue, NE | 123-456-6789 | tylerbrown1416@gmail.com\n\n\n\n\n\n\n\n\n\n\n\nTyler Brown\n\n\n\n\n\n\n\n\n\n\n\n\nTyler’s First Blog Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 11, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "About this blog"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,10 +28,10 @@
     "text": "My first post!\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "About this blog"
+    "text": "Bellevue, NE | 123-456-6789 | tylerbrown1416@gmail.com\n\n\n\n\n\n\n\n\n\n\n\nTyler Brown\n\n\n\n\n\n\n\n\n\n\n\n\nTyler Brown\n\n\n\n\n\n\n\n\n\n\n\nBellevue, NE | 123-456-7890 | tylerbrown1416@gmail.com\n\n\n\n\n\n\n\n\n\n\n\n\nTyler’s First Blog Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 11, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
